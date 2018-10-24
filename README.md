@@ -1,3 +1,3 @@
-# **_SHIFT_**: speedy histopathological-to-immunofluorescent translation 
-**_S_**peedy **_H_** istopathological-to-**_I_** mmuno**_F_**luorescent **_T_**ranslation of medical images with pix2pix
+# **_SHIFT_**
+**S**peedy **H**istopathological-to-**I** mmuno**F**luorescent **T**ranslation of medical images with pix2pix
 
