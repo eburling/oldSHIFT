@@ -1,3 +1,3 @@
 # **SHIFT**
-**S**peedy **H**istopathological-to-**I**mmuno**F**luorescent **T**ranslation of medical images with conditional generative adversarial networks
+**S**peedy **H**istopathological-to-**I**mmuno**F**luorescent **T**ranslation of medical images with conditional GANs.
 
